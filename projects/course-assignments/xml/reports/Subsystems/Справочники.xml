@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Subsystem uuid="ed6dcdfd-471b-437a-a371-7b04ff475493">
+		<Properties>
+			<Name>Справочники</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Справочники</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<Explanation/>
+			<Picture/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Покупатели</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ДоговорыПокупателей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Регионы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Товары</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Страны</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВидыКонтактов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">2161e692-5603-40d5-a3bb-4c22cd1f0cb3</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Клиенты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">011970b6-5b33-4bc5-956c-79f35b06923d</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.События</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Филиалы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Город</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">83c08a18-83db-4464-81cd-114593c8f3fa</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">83b301af-0199-4185-8b07-a4489bf5e00f</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">bef98a21-74de-45c8-bb03-8618d1d9feec</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ee6196b3-0a91-4d3b-8c3c-d03aaf727610</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">f0199c7f-1ae6-4041-94a5-7f65dbfcce86</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Валюты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">80a410ae-8915-4f1c-b66e-21c4a4a0ce44</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">aeb2c56d-5c9c-4e20-a9ad-3eaad8c6c32a</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">c4828785-c382-4dfc-b9e7-06cc023ae728</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects/>
+	</Subsystem>
+</MetaDataObject>
